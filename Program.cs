@@ -5,7 +5,6 @@ internal class Program
 {
     public static void Main()
     {
-        var dc = new DeckOfCards();
-        dc.Solution();
+        Console.WriteLine("This is Day 11~12 Assignment");
     }
 }
